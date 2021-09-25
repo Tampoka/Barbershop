@@ -1,2 +1,2 @@
-Just small project made while styding on HTML Academy course. 
+Just small project made while studying on HTML Academy course. 
 Html, Css and some JS.
